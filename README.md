@@ -5,7 +5,7 @@ novo formato mecânico “JARM”, desenvolvida especificamente para projetos
 
 
 <p align="center">
-<img width="853" height="733" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
+<img width="731" height="628" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
 </p align="center">
 
 ## História da GongoMESH
