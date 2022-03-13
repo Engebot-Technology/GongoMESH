@@ -1,6 +1,6 @@
 ## Sobre a GongoMESH
 
-A JARM ESP32 IoT é uma micro plataforma de hardware com um
+A GongoMESH
 novo formato mecânico “JARM”, desenvolvida especificamente para projetos
 
 
@@ -8,7 +8,7 @@ novo formato mecânico “JARM”, desenvolvida especificamente para projetos
 <img width="853" height="733" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
 </p align="center">
 
-## História da JGongoMESH
+## História da GongoMESH
 
 A Espressif Systems, lançou o [ESP32](https://www.espressif.com/en/products/socs/esp32), um poderoso microcontrolador rico em recursos com Wi-Fi integrado e
 Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT mais comum era o NODEMCU32, basante uilizado no mercado mundial, sendo criado muitos projetos com ele.
@@ -16,11 +16,9 @@ Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT 
 A SiriNEO Technologies então baseando-se no formato padrão "JARM" do projetista [Cirineu](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/),  desenvolveu 
 a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidade de expandir as funcionalidade do ESP32 com a de outros protocolos IoT como LoRa, Zigbee e SigFOX.
 
-Em agosto de 2020, em sua página oficial, a  Espressif Systems publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), apresentando ao mercado mundial a
-nossa plataforma brasileira. 
-
-Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda, um soquete 
-padrão xbee para encaixe de módulos sem fio mais comuns do mercado comunicando via Interface SPI ou Serial. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 <p align="center">
 <img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
@@ -28,8 +26,9 @@ padrão xbee para encaixe de módulos sem fio mais comuns do mercado comunicando
 
 ## Alguns projetos de MVP com a GongoMESH
 
-A JARMESP32IoT está sendo utilizada em projetos de MVP IoT, voltado a Agricultura de Precisão no Brasil. A UEG e UFG já utilizam esse equipamento para o desenvolvimento
-de um protótipo de estação de monitoramento com redes LoRa para o monitoramento de um pequeno criatório de pintinhos em Posse-GO. 
+A JARMESP32IoT está sendo utilizada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 <p align="center">
 <img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
