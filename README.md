@@ -7,7 +7,7 @@ Gateway IoT usando as principais tecnologias sem fio do mercado mundial voltado 
 Através do HAT GongoMESH, aliado com os smart devices da SIRINEO TECNOLOGIES e alguns hardwares do mercado mundial, é possível criar Ecossistemas de IOT para aplicação a monitoramento e controle de dispositivos 
 com aplicação a Smert Cities, Indústria 4.0, Heathcare, Agricultura de precisão.
 
-A GongoMESH (Gongo homenagem ao gongo de babaçu (Pachymerus nucleorum) do maranhão) também poderá ser utilizadas em vários modelos de Hardwares com form factor, pinagem de funcionalidades do Raspberry pi, e além disso ela poderá ser utilizada com a [JARM IOT M](https://github.com/sirineo-technologies/JARMIoTM)  da SIRINEO TECNOLOGIES, para uso em pequenas aplicações. 
+A GongoMESH (Gongo homenagem ao gongo de babaçu (Pachymerus nucleorum) do Maranhão) também poderá ser utilizadas em vários modelos de Hardwares com form factor, pinagem de funcionalidades do Raspberry pi, e além disso ela poderá ser utilizada com a [JARM IOT M](https://github.com/sirineo-technologies/JARMIoTM)  da SIRINEO TECNOLOGIES, para uso em pequenas aplicações. 
 
 Ela vem com um soquete form factor Arduino UNO para acoplamento do Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black) da SiriNEO TECNOLOGIES para alguns testes fazendo que seu Raspberry se torne praticamente um Arduino, vem com duas entrada micro USB integrado ao hardware, para interface USB para Serial utilizando as portas USB do seu Raspberry PI, além de: GPS/GNSS, conversor analógico digital, controlador de cooler para resfriamento, RTC,interface de comunicação RS-485, e entradas para módulo HC06, ESP8266,e várias portas I2C, tudo isso integrados ao hardware.
 
@@ -20,13 +20,9 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 
 ## História da GongoMESH
 
-A Espressif Systems, lançou o [ESP32](https://www.espressif.com/en/products/socs/esp32), um poderoso microcontrolador rico em recursos com Wi-Fi integrado e
-Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT mais comum era o NODEMCU32, basante uilizado no mercado mundial, sendo criado muitos projetos com ele.
 
-A SiriNEO Technologies então baseando-se no formato padrão "JARM" do projetista [Cirineu](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/),  desenvolveu 
-a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidade de expandir as funcionalidade do ESP32 com a de outros protocolos IoT como LoRa, Zigbee e SigFOX.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+A SiriNEO Technologies Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
 laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
  non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
