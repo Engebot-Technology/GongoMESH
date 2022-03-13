@@ -10,7 +10,7 @@ com aplicação a Smert Cities, Indústria 4.0, Heathcare, Agricultura de precis
 
 A GongoMESH (Gongo homenagem ao gongo de babaçu do maranhão) também poderá ser utilizadas em vários modelos de Hardwares com form factor, pinagem de funcionalidades do Raspberry pi, e além disso ela poderá ser utilizada com a [JARM IOT](https://github.com/sirineo-technologies/JARMIoTM) M da SIRINEO TECNOLOGIES, para uso em pequenas aplicações. 
 
-Ela vem com um soquete form factor Arduino UNO para acoplamento do Shield [Tatamaya Black]() da SiriNEO TECNOLOGIES para alguns testes fazendo que seu Raspberry se torne praticamente um Arduino, vem com duas entrada micro USB integrado ao hardware, para interface USB para Serial utilizando as portas USB do seu Raspberry PI, além de: GPS/GNSS, conversor analógico digital, controlador de cooler para resfriamento, RTC,interface de comunicação RS-485, e entradas para módulo HC06, ESP8266,e várias portas I2C, tudo isso integrados ao hardware.
+Ela vem com um soquete form factor Arduino UNO para acoplamento do Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black) da SiriNEO TECNOLOGIES para alguns testes fazendo que seu Raspberry se torne praticamente um Arduino, vem com duas entrada micro USB integrado ao hardware, para interface USB para Serial utilizando as portas USB do seu Raspberry PI, além de: GPS/GNSS, conversor analógico digital, controlador de cooler para resfriamento, RTC,interface de comunicação RS-485, e entradas para módulo HC06, ESP8266,e várias portas I2C, tudo isso integrados ao hardware.
 
 Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize esse poderoso equipamento que lhe proporcionará um solução otimizada para seus problemas!
 
