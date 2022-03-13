@@ -5,10 +5,10 @@ novo formato mecânico “JARM”, desenvolvida especificamente para projetos
 
 
 <p align="center">
-<img width="786" height="366" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
+<img width="853" height="733" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
 </p align="center">
 
-## História da JARMESP32IOT
+## História da JGongoMESH
 
 A Espressif Systems, lançou o [ESP32](https://www.espressif.com/en/products/socs/esp32), um poderoso microcontrolador rico em recursos com Wi-Fi integrado e
 Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT mais comum era o NODEMCU32, basante uilizado no mercado mundial, sendo criado muitos projetos com ele.
@@ -26,7 +26,7 @@ padrão xbee para encaixe de módulos sem fio mais comuns do mercado comunicando
 <img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
 </p align="center">
 
-## Alguns projetos de MVP com a JARMESP32IOT
+## Alguns projetos de MVP com a GongoMESH
 
 A JARMESP32IoT está sendo utilizada em projetos de MVP IoT, voltado a Agricultura de Precisão no Brasil. A UEG e UFG já utilizam esse equipamento para o desenvolvimento
 de um protótipo de estação de monitoramento com redes LoRa para o monitoramento de um pequeno criatório de pintinhos em Posse-GO. 
