@@ -1,0 +1,115 @@
+## Sobre a GongoMESH
+
+A JARM ESP32 IoT é uma micro plataforma de hardware com um
+novo formato mecânico “JARM”, desenvolvida especificamente para projetos
+
+
+<p align="center">
+<img width="786" height="366" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
+</p align="center">
+
+## História da JARMESP32IOT
+
+A Espressif Systems, lançou o [ESP32](https://www.espressif.com/en/products/socs/esp32), um poderoso microcontrolador rico em recursos com Wi-Fi integrado e
+Conectividade Bluetooth para uma ampla gama de aplicções. No mercado o DEVKIT mais comum era o NODEMCU32, basante uilizado no mercado mundial, sendo criado muitos projetos com ele.
+
+A SiriNEO Technologies então baseando-se no formato padrão "JARM" do projetista [Cirineu](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/),  desenvolveu 
+a sua própria Plataforma de Hardware baseada no ESP32-WROOM, com a finalidade de expandir as funcionalidade do ESP32 com a de outros protocolos IoT como LoRa, Zigbee e SigFOX.
+
+Em agosto de 2020, em sua página oficial, a  Espressif Systems publicou um breve artigo sobre nossa Plataforma [JARMESP32IoT](https://www.espressif.com/en/news/JARM_ESP32), apresentando ao mercado mundial a
+nossa plataforma brasileira. 
+
+Diferentes dos padrões de DEVKITs do mercado mundial a JARMESP32IoT, já vem com uma quantidade incrível de periféricos prontos para a Internet das Coisas, e ainda, um soquete 
+padrão xbee para encaixe de módulos sem fio mais comuns do mercado comunicando via Interface SPI ou Serial. 
+
+<p align="center">
+<img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
+</p align="center">
+
+## Alguns projetos de MVP com a JARMESP32IOT
+
+A JARMESP32IoT está sendo utilizada em projetos de MVP IoT, voltado a Agricultura de Precisão no Brasil. A UEG e UFG já utilizam esse equipamento para o desenvolvimento
+de um protótipo de estação de monitoramento com redes LoRa para o monitoramento de um pequeno criatório de pintinhos em Posse-GO. 
+
+<p align="center">
+<img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
+</p align="center">
+
+Praticidade e Versatilidade são características que você vai encrontrar em nossa Plataforma JARMESP32IOT.
+
+<p align="center">
+<img width="640" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32g.jpg">
+</p align="center">
+
+Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.
+
+## Nosso e-mail
+
+<a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a> commercialbusiness@sirineotechnologies.com
+
+## Nossas Redes Sociais
+
+Ajude o desenvolvimento de hardware no Brasil ! Nos ajude compartilhando, curtindo e comentando nossas publicações em nossas Redes Sociais.
+
+<br>
+<a target="_blank" href="http://sirineotechnologies.com/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://visualpharm.com/assets/378/Website-595b40b65ba036ed117d1098.svg" />
+</a>
+<a target="_blank" href="https://t.me/+JRUYf0m6IjE0ZGMx">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/company/sirineo-technologies">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/sirineotechnologies">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://web.facebook.com/Sirineotechnologies/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/sirineotech">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCXL7DX-jfyiIgiR7kq9hfNw">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a target="_blank" href="https://www.tiktok.com/@sirineotechnologies">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+</a>
+
+<br>
+
+## Conheça nosso Laboratório BabaçuLAB VICENTE
+
+Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e faça uma visita !
+
+<a target="_blank" href="https://www.instagram.com/babaculab.sirineo/reels/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
+
+## Autor
+
+Cirineu - engereggae 
+
+<a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
+  <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a target="_blank" href="https://twitter.com/engereggae">
+  <img align="left" alt="twitter" width="98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+ 
+:construction:  Página Github em construção  :construction:
+
+## In memorian
+
+Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b><br> que nos deixou dia 08/03/2022.
+                                                          Obrigado meu filho
+
+
+
+
+
+
