@@ -15,7 +15,7 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 
 
 <p align="center">
-<img width="731" height="628" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
+<img width="731" height="364" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
 </p align="center">
 
 ## História da GongoMESH
@@ -25,9 +25,9 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 A SiriNEO Technologies Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
 laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
  non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
+ 
 <p align="center">
-<img width="475" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32-iso-com-antenna.png">
+<img width="545" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/GongoMESH-prototipo.png">
 </p align="center">
 
 ## Alguns projetos de MVP com a GongoMESH
