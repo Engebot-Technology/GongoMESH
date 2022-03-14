@@ -21,10 +21,12 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 ## História da GongoMESH
 
 
+A GongoMESH foi um projeto baseado em um shield da EngeBOT Tecnologia chamado Blufibee, esse shield era utilizado para conversão serial de protocolos IoT, não entendíamos nada de Raspberry pi, então
+resolvemos fazer alguns testes com a TiBEE usando os módulo Xbee da Digi, e posteriormente o módulo LoraBOT da SiriNEO Technologies. Analisando a pinagem e as restrições que o Raspberry pi oferecia como falta de entrada analógica,
+pouca entrada serial e porta I2C, além do fato de que haviam muitos exemplos de códigos com o Raspberry pi que o fazia se tornar algum como um Arduino, acabou por inspirar nosso projetista Cirineu, a desenvolver um hat
+que pudesse resolver esses problemas.
 
-A SiriNEO Technologies Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
- non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
  
 <p align="center">
 <img width="545" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/GongoMESH-prototipo.png">
@@ -32,7 +34,7 @@ laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in repreh
 
 ## Alguns projetos de MVP com a GongoMESH
 
-A JARMESP32IoT está sendo utilizada Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+A consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
 laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
  non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
