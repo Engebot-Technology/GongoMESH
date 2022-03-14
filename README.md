@@ -50,7 +50,7 @@ Utilizando-se Python ou outras linguagens você fazer a pogramação do seu Rasp
 * GongoMESH como gateway LoRa de 01 (um) canal e Gateway Zigbee
 
 <p align="center">
-<img width="96" height="515" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/ecossistemas-gongomesh.png">
+<img width="996" height="515" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/ecossistemas-gongomesh.png">
 </p align="center">
 
 * GongoMESH como gateway LoraWAN de 08 (oito) canais utilizando o concentrador [RAK 833](https://www.rakwireless.com/en-us/products/lpwan-gateways-and-concentrators/rak833) da RAK Wireless. 
