@@ -37,7 +37,10 @@ que pudesse resolver esses problemas.
 O projeto da GongoMESH foi feito para o uso de diversas funcioalidades, utilizando-se por exemplo a  placa Raspberry Pi que possue GPIOs acessíveis, podemos utilizá-la para acionar ou 
 ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placas/módulos/sensores, mas claro, para isso você dependerá de um protoboard e comprar diversos shields do mercado ou um HAT específico.
 
-* GongoMESH com os shields [BEESP MF](https://github.com/sirineo-technologies/BEESP-MF) e [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black).
+Utilizando-se de nosss GongoMESH e nossos shields [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black). e [BEESP MF](https://github.com/sirineo-technologies/BEESP-MF) você poupará muito trabalho de usar 
+protoboard, componentes como resistores, leds e gastar muito dinheiro com kits  como GPS/GNSS, HAT Xbee, RTC, I2C, conversor analógico digital, CAN, buzzer, etc.. 
+
+* GongoMESH com os shields BEESP MF e Tatamaya Black.
 
 <p align="center">
 <img width="996" height="470" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/gongomesh-tblack-beesp.png">
