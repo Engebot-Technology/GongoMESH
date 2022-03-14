@@ -47,13 +47,13 @@ ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placa
 
 Utilizando-se Python ou outras linguagens você fazer a pogramação do seu Raspberry pi, e se seu projeto for mais complexo você poderá a GongoMESH para ser usada por exemplo como um Gateway IoT. 
 
-<!--
-<p align="center">
-<img width="640" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32g.jpg">
-</p align="center">
--->
 
-Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.
+<p align="center">
+<img width="640" height="479" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1634084389.jpeg">
+</p align="center">
+
+
+<!--Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.-->
 
 ## Nosso e-mail
 
