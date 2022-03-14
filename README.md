@@ -142,6 +142,6 @@ Cirineu - engereggae
 Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b><br> que nos deixou dia 08/03/2022.
                                                           Obrigado meu filho
 														  
-## HOME
+## Home
 
 :derelict_house: [Pagina inicial SiriNEO Technologies](https://github.com/sirineo-technologies)
