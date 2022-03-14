@@ -15,7 +15,7 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 
 
 <p align="center">
-<img width="731" height="364" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
+<img width="711" height="594" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg">
 </p align="center">
 
 ## História da GongoMESH
