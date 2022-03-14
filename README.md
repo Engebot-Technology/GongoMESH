@@ -38,11 +38,10 @@ O projeto da GongoMESH foi feito para o uso de diversas funcioalidades, utilizan
 ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placas/módulos/sensores, mas claro, para isso você dependerá de um protoboard e comprar diversos shields do mercado ou um HAT específico.
 
 
-<!--
 <p align="center">
-<img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
+<img width="840" height="382" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/pinagem_GPIO.png">
 </p align="center">
--->
+
 
 ## GongoMESH como Gateway IoT
 
