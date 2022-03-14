@@ -37,6 +37,14 @@ que pudesse resolver esses problemas.
 O projeto da GongoMESH foi feito para o uso de diversas funcioalidades, utilizando-se por exemplo a  placa Raspberry Pi que possue GPIOs acessíveis, podemos utilizá-la para acionar ou 
 ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placas/módulos/sensores, mas claro, para isso você dependerá de um protoboard e comprar diversos shields do mercado ou um HAT específico.
 
+* GongoMESH com os shields BEES MF e Tatamaya Black.
+
+<p align="center">
+<img width="996" height="474" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/gongomesh-tblack-beesp.png">
+</p align="center">
+
+* Pinagem padrão Raspberry pi da GongoMESH.
+
 
 <p align="center">
 <img width="840" height="382" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/pinagem_GPIO.png">
