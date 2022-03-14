@@ -53,7 +53,7 @@ Utilizando-se Python ou outras linguagens você fazer a pogramação do seu Rasp
 <img width="640" height="479" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1634078197.jpeg">
 </p align="center">
 
-* GongoMESH como gateway LoraWAN de 08 (oito) canais utilizando o concentrador RAK 833. 
+* GongoMESH como gateway LoraWAN de 08 (oito) canais utilizando o concentrador [RAK 833](https://www.rakwireless.com/en-us/products/lpwan-gateways-and-concentrators/rak833) da RAK Wireless. 
 
 <p align="center">
 <img width="640" height="479" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1634084389.jpeg">
