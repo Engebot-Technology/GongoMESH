@@ -21,7 +21,7 @@ Monte seu Ecossistema IoT que mais se adequar a sua Solução de IOT, utilize es
 ## História da GongoMESH
 
 
-A GongoMESH foi um projeto baseado em um shield da EngeBOT Tecnologia chamado Blufibee, esse shield era utilizado para conversão serial de protocolos IoT, não entendíamos nada de Raspberry pi, então
+A GongoMESH é um projeto baseado em um shield da EngeBOT Tecnologia chamado Blufibee, esse shield era utilizado para conversão serial de protocolos IoT, não entendíamos nada de Raspberry pi, então
 resolvemos fazer alguns testes com a TiBEE usando os módulo Xbee da Digi, e posteriormente o módulo LoraBOT da SiriNEO Technologies. Analisando a pinagem e as restrições que o Raspberry pi oferecia como falta de entrada analógica,
 pouca entrada serial e porta I2C, além do fato de que haviam muitos exemplos de códigos com o Raspberry pi que o fazia se tornar algum como um Arduino, acabou por inspirar nosso projetista Cirineu, a desenvolver um hat
 que pudesse resolver esses problemas.
@@ -32,21 +32,27 @@ que pudesse resolver esses problemas.
 <img width="545" height="368" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/GongoMESH-prototipo.png">
 </p align="center">
 
-## Alguns projetos de MVP com a GongoMESH
+## Fazendo a GongoMESH como Arduino
 
-A consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
- non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+O projeto da GongoMESH foi feito para o uso de diversas funcioalidades, utilizando-se por exemplo a  placa Raspberry Pi que possue GPIOs acessíveis, podemos utilizá-la para acionar ou 
+ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placas/módulos/sensores, mas claro, para isso você dependerá de um protoboard e comprar diversos shields do mercado ou um HAT específico.
 
+
+<!--
 <p align="center">
 <img width="479" height="640" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/photo1633185140-1.jpeg">
 </p align="center">
+-->
 
-Praticidade e Versatilidade são características que você vai encrontrar em nossa Plataforma JARMESP32IOT.
+## GongoMESH como Gateway IoT
 
+Utilizando-se Python ou outras linguagens você fazer a pogramação do seu Raspberry pi, e se seu projeto for mais complexo você poderá a GongoMESH para ser usada por exemplo como um Gateway IoT. 
+
+<!--
 <p align="center">
 <img width="640" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmesp32g.jpg">
 </p align="center">
+-->
 
 Assistam esse [vídeo do youtube](https://www.youtube.com/watch?v=SOPX40aBRIg&ab_channel=SiriNEOTechnologies) e veja mais um pouco das funcionalidades da JARMESP32IoT.
 
