@@ -4,7 +4,7 @@ O mercado de IOT (Internet das Coisas), possui inúmeros modelos de HAT para Ras
 soluções de ecossistemas de IOT, a SiriNEO TECNOLOGIES, resolveu projetar um HAT que integrasse várias funcionalidades práticas para o Raspberry PI e também que trouxesse a possibilidade de montagem de um 
 Gateway IoT usando as principais tecnologias sem fio do mercado mundial voltado para Internet das coisas.
 
-Através do HAT GongoMESH, aliado com os smart devices da SIRINEO TECNOLOGIES e alguns hardwares do mercado mundial, é possível criar Ecossistemas de IOT para aplicação a monitoramento e controle de dispositivos 
+Através do HAT GongoMESH, aliado com os smart devices da SiriNEO TECNOLOGIES e alguns hardwares do mercado mundial, é possível criar Ecossistemas de IOT para aplicação a monitoramento e controle de dispositivos 
 com aplicação a Smert Cities, Indústria 4.0, Heathcare, Agricultura de precisão.
 
 A GongoMESH (Gongo homenagem ao gongo de babaçu (Pachymerus nucleorum) do Maranhão) também poderá ser utilizadas em vários modelos de Hardwares com form factor, pinagem de funcionalidades do Raspberry pi, e além disso ela poderá ser utilizada com a [JARM IOT M](https://github.com/sirineo-technologies/JARMIoTM)  da SIRINEO TECNOLOGIES, para uso em pequenas aplicações. 
@@ -37,7 +37,7 @@ que pudesse resolver esses problemas.
 O projeto da GongoMESH foi feito para o uso de diversas funcioalidades, utilizando-se por exemplo a  placa Raspberry Pi que possue GPIOs acessíveis, podemos utilizá-la para acionar ou 
 ler circuitos externos, ou até mesmo nos comunicar serialmente com outras placas/módulos/sensores, mas claro, para isso você dependerá de um protoboard e comprar diversos shields do mercado ou um HAT específico.
 
-Utilizando-se de nosss GongoMESH e nossos shields [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black). e [BEESP MF](https://github.com/sirineo-technologies/BEESP-MF) você poupará muito trabalho de usar 
+Utilizando-se de nossa GongoMESH e nossos shields [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black) e [BEESP MF](https://github.com/sirineo-technologies/BEESP-MF) você poupará muito trabalho de usar 
 protoboard, componentes como resistores, leds e gastar muito dinheiro com kits  como GPS/GNSS, HAT Xbee, RTC, I2C, conversor analógico digital, CAN, buzzer, etc.. 
 
 * GongoMESH com os shields BEESP MF e Tatamaya Black.
